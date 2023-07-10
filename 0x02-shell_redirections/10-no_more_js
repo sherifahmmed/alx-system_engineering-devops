@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf -type f *.js
+find . mindepth 1 -name "*.js" -type f | rm -rf
