@@ -1,2 +1,2 @@
 #!/bin/bash
-set "PATH=SPATH:/action"
+echo "PATH=SPATH:/action"
